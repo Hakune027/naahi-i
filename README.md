@@ -1,16 +1,30 @@
-<div align="center">
-
-# ✨ Hakune027
-
-<img src="img.png" width="100%" />
 
 <br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hakune027&show_icons=true&border_radius=20&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakune027&layout=compact&border_radius=20&hide_border=true" />
+<img src="img.png" style="width: 100%; max-width: 850px; border-radius: 16px;" />
 
 <br><br>
 
-<img width="100%" src="metrics.plugin.isocalendar.svg" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hakune027&show_icons=true&theme=github_dark&border_radius=16&border_color=21262d" style="width: 100%; max-width: 600px; margin-bottom: 20px;" />
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakune027&theme=github_dark&border_radius=16&border_color=21262d" style="width: 100%; max-width: 600px;" />
+</p>
+
+<br>
+
+<img src="metrics.plugin.isocalendar.svg" style="width: 100%; max-width: 850px; border-radius: 16px;" />
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,js,vue,vscode,git,github" />
+</p>
+
+---
+
+<br>
